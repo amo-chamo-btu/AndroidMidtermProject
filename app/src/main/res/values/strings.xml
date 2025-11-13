@@ -3,4 +3,11 @@
     <string name="cart">Cart</string>
     <string name="cart_text">Discusses the factors that make a logo successful by analyzing the research, brainstorming, sketching, and stylistic experiments that led to its development</string>
     <string name="start_shopping">Start Shopping</string>
+    <string name="search">Search...</string>
+    <string name="official_store">official store</string>
+    <string name="free_delivery">free delivery</string>
+    <string name="yes">Discusses the factors that make a logo successful by analyzing the research, brainstorming, sketching, and stylistic experiments that led to its development</string>
+    <string name="offers">Offers</string>
+    <string name="various_installment_options">various installment options</string>
+    <string name="add_to_cart">Add To Cart</string>
 </resources>
